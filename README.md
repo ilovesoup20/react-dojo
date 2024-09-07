@@ -1,5 +1,5 @@
 # React Dojo
 
-## Libraries
+## Packages
 
 https://tailwindcss.com/docs/guides/create-react-app
